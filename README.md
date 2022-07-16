@@ -1,0 +1,3 @@
+Weather Bot fue creado en Node.js usando la libreria Telegraf. Los datos del clima son tomados de la API de https://openweathermap.org/ y publicados en telegram usando un bot creado en la API de telegram. Para poder ingresar a los datos del clima hay que crear cuenta en open weather y crear una API KEY para poder purblicar en telegram hay que crear el bot y usar el id del bot.
+
+Weather Bot was created in Node.js using the Telegraf library. Weather data is taken from the https://openweathermap.org/ API and published to Telegram using a bot built on the Telegram API. To be able to enter the weather data you have to create an account in open weather and create an API KEY to be able to publish on telegram you have to create the bot and use the bot id.
